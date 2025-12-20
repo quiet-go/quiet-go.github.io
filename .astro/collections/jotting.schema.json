@@ -1,0 +1,60 @@
+{
+  "$ref": "#/definitions/jotting",
+  "definitions": {
+    "jotting": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "timestamp": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "description": {
+          "type": "string"
+        },
+        "sensitive": {
+          "type": "boolean",
+          "default": false
+        },
+        "top": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0
+        },
+        "draft": {
+          "type": "boolean",
+          "default": false
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "timestamp"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

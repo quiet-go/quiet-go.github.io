@@ -1,0 +1,9 @@
+
+import __ASTRO_IMAGE_IMPORT_1VP2H0 from "white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fen%2Fimage-preview%2Findex.md";
+import __ASTRO_IMAGE_IMPORT_y3S50 from "pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fen%2Fsensitive%2Findex.md";
+import __ASTRO_IMAGE_IMPORT_Z2iKyXE from "white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fzh-cn%2Fimage-preview%2Findex.md";
+import __ASTRO_IMAGE_IMPORT_1Mybkl from "pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fzh-cn%2Fsensitive%2Findex.md";
+import __ASTRO_IMAGE_IMPORT_ZwJrxl from "pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fja%2Fsensitive%2Findex.md";
+import __ASTRO_IMAGE_IMPORT_Zc5JRd from "white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fja%2Fimage-preview%2Findex.md";
+export default new Map([["white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fen%2Fimage-preview%2Findex.md", __ASTRO_IMAGE_IMPORT_1VP2H0], ["pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fen%2Fsensitive%2Findex.md", __ASTRO_IMAGE_IMPORT_y3S50], ["white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fzh-cn%2Fimage-preview%2Findex.md", __ASTRO_IMAGE_IMPORT_Z2iKyXE], ["pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fzh-cn%2Fsensitive%2Findex.md", __ASTRO_IMAGE_IMPORT_1Mybkl], ["pid_73284156_0.png?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fja%2Fsensitive%2Findex.md", __ASTRO_IMAGE_IMPORT_ZwJrxl], ["white_sailboat_on_water.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fnote%2Fja%2Fimage-preview%2Findex.md", __ASTRO_IMAGE_IMPORT_Zc5JRd]]);
+		
