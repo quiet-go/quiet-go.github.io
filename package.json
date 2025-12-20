@@ -2,6 +2,7 @@
 	"name": "orbital-osiris",
 	"type": "module",
 	"version": "0.30.11",
+	"packageManager": "pnpm@10.26.1",
 	"description": "A modern Astro theme focused on content creation",
 	"keywords": [
 		"astro",
