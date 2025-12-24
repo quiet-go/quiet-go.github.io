@@ -2,19 +2,20 @@ import siteConfig from "./src/utils/config";
 
 const config = siteConfig({
 	title: "quiet-go's blog",
-	prologue: "If you need a website\nthat loads fast and has great SEO, then Astro is for you.",
+	prologue: "Boys,you must strive to find your own voice.",
 	author: {
-		name: "Your Name",
-		email: "hi@your.mail",
-		link: "https://your.website"
+		name: "quiet-go",
+		email: "2499511171@qq.com",
+		link: "https://quiet-go.github.io"
 	},
-	description: "A modern Astro theme focused on content creation.",
+	description: "quiet-go' blog.",
 	copyright: {
 		type: "CC BY-NC-ND 4.0",
 		year: "2025"
 	},
 	i18n: {
-		locales: ["en", "zh-cn", "ja"],
+		// locales: ["en", "zh-cn", "ja"],
+		locales: ["zh-cn"],
 		defaultLocale: "zh-cn"
 	},
 	feed: {
